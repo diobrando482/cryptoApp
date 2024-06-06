@@ -1,0 +1,18 @@
+.main-crypto-footer{
+    width: 100%;
+    height: fit-content;
+    padding:10px 0px;
+    background-color: aqua;
+}
+
+.main-crypto-footer-cards{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title{
+    padding: 0px;
+    margin: 0px;
+}
